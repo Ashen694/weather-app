@@ -2,8 +2,8 @@
 
 A simple web application that displays the current weather conditions for a searched city using the OpenWeatherMap API. This project was built primarily with HTML, CSS, and vanilla JavaScript.
 
-![Weather App Screenshot](img/weather-app-home.png)
-![Weather App Screenshot](img/weather-app-result.png)
+![Weather App Screenshot](img/weather-app-home.PNG)
+![Weather App Screenshot](img/weather-app-result.PNG)
 
 ## Features
 
